@@ -23,6 +23,7 @@
 
 - React Functional Components
 - React Hooks
+- RapidAPI for the exercises data and youtube search api
 - Flexbox layouy
 - Material ui React Component and Icons
 - Responsive Design
