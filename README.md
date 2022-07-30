@@ -27,4 +27,4 @@
 - Flexbox layouy
 - Material ui React Component and Icons
 - Responsive Design
-- Deploy the App LIVE on Firebase
+- Deploy the App LIVE on Netlify
